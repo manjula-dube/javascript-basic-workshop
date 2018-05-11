@@ -38,7 +38,7 @@ var symbol1 = Symbol('manjula')
 var symbol2 = Symbol('manjula')
 console.log(symbol1 === symbol2)
 /**convert it to <string></string> */
-console.log(String(symbol1) === String(symbol2)
+console.log(String(symbol1) === String(symbol2))
 
 
 //Object
